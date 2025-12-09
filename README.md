@@ -88,7 +88,7 @@ cd true-pdf-inverter
 4. View the live preview and click **Download PDF**.
 
 **Hosted Version:**
-You can try it directly online without cloning: [🌙 True PDF Inverter Hosted](https://yourusername.github.io/true-pdf-inverter/)
+You can try it directly online without cloning: [PDF Inverter Hosted](https://anshitsinha.github.io/pdf-inverter/)
 
 ---
 
@@ -100,10 +100,6 @@ We welcome contributions to enhance stability and performance. Please submit a *
 
 ## Contact
 
-For questions or feedback, please [open an issue on GitHub](https://github.com/yourusername/true-pdf-inverter/issues).
+For questions or feedback, please [open an issue on GitHub](https://github.com/anshitsinha/pdf-inverter/issues).
 
----
 
-If you want, I can **also add some badges** for GitHub stars, license, hosted version, and language stats to make it look fully polished like a professional open-source project.
-
-Do you want me to do that next?
