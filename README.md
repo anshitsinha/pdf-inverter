@@ -103,3 +103,7 @@ We welcome contributions to enhance stability and performance. Please submit a *
 For questions or feedback, please [open an issue on GitHub](https://github.com/anshitsinha/pdf-inverter/issues).
 
 
+
+---
+
+Case study: [anshit.is-a.dev/works/pdf-inverter](https://anshit.is-a.dev/works/pdf-inverter) · Built by [Anshit Sinha](https://anshit.is-a.dev)
